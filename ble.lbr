@@ -61,92 +61,92 @@
 <wire x1="0" y1="23" x2="12.7" y2="23" width="0.127" layer="21"/>
 <wire x1="12.7" y1="23" x2="12.7" y2="0" width="0.127" layer="21"/>
 <wire x1="12.7" y1="0" x2="0" y2="0" width="0.127" layer="21"/>
-<smd name="P$1" x="0.95" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$2" x="0.95" y="15.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$3" x="0.95" y="14.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$4" x="0.95" y="12.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$5" x="0.95" y="11.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$6" x="0.95" y="10.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$7" x="0.95" y="9.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$8" x="0.95" y="8.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$9" x="0.95" y="6.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$10" x="0.95" y="5.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$11" x="0.95" y="4.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$12" x="0.95" y="3.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$13" x="0.95" y="2.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$14" x="0.95" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$15" x="2.15" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$16" x="3.35" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$17" x="4.55" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$18" x="5.75" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$19" x="6.95" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$20" x="8.15" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$21" x="9.35" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$22" x="10.55" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$23" x="11.75" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$24" x="11.75" y="2.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$25" x="11.75" y="3.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$26" x="11.75" y="4.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$27" x="11.75" y="5.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$28" x="11.75" y="6.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$29" x="11.75" y="8.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$30" x="11.75" y="9.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$31" x="11.75" y="10.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$32" x="11.75" y="11.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$33" x="11.75" y="12.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$34" x="11.75" y="14.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$35" x="11.75" y="15.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$36" x="11.75" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$37" x="10.55" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$38" x="9.35" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$39" x="8.15" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$40" x="6.95" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$41" x="5.75" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$42" x="4.55" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$43" x="3.35" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
-<smd name="P$44" x="2.15" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P01" x="0.95" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P02" x="0.95" y="15.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P03" x="0.95" y="14.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P04" x="0.95" y="12.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P05" x="0.95" y="11.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P06" x="0.95" y="10.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P07" x="0.95" y="9.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P08" x="0.95" y="8.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P09" x="0.95" y="6.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P10" x="0.95" y="5.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P11" x="0.95" y="4.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P12" x="0.95" y="3.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P13" x="0.95" y="2.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P14" x="0.95" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P15" x="2.15" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P16" x="3.35" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P17" x="4.55" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P18" x="5.75" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P19" x="6.95" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P20" x="8.15" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P21" x="9.35" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P22" x="10.55" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P23" x="11.75" y="0.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P24" x="11.75" y="2.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P25" x="11.75" y="3.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P26" x="11.75" y="4.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P27" x="11.75" y="5.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P28" x="11.75" y="6.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P29" x="11.75" y="8.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P30" x="11.75" y="9.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P31" x="11.75" y="10.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P32" x="11.75" y="11.7" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P33" x="11.75" y="12.9" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P34" x="11.75" y="14.1" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P35" x="11.75" y="15.3" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P36" x="11.75" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P37" x="10.55" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P38" x="9.35" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P39" x="8.15" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P40" x="6.95" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P41" x="5.75" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P42" x="4.55" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P43" x="3.35" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
+<smd name="P44" x="2.15" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
 </package>
 <package name="NORDIC-BREAKOUT">
-<pad name="P$1" x="-11.43" y="24.13" drill="0.8"/>
-<pad name="P$2" x="-11.43" y="21.59" drill="0.8"/>
-<pad name="P$3" x="-11.43" y="19.05" drill="0.8"/>
-<pad name="P$4" x="-11.43" y="16.51" drill="0.8"/>
-<pad name="P$5" x="-11.43" y="13.97" drill="0.8"/>
-<pad name="P$6" x="-11.43" y="11.43" drill="0.8"/>
-<pad name="P$7" x="-11.43" y="8.89" drill="0.8"/>
-<pad name="P$8" x="-11.43" y="6.35" drill="0.8"/>
-<pad name="P$9" x="-11.43" y="3.81" drill="0.8"/>
-<pad name="P$10" x="-11.43" y="1.27" drill="0.8"/>
-<pad name="P$11" x="-11.43" y="-1.27" drill="0.8"/>
-<pad name="P$12" x="-11.43" y="-3.81" drill="0.8"/>
-<pad name="P$13" x="-11.43" y="-6.35" drill="0.8"/>
-<pad name="P$14" x="-11.43" y="-8.89" drill="0.8"/>
-<pad name="P$15" x="-11.43" y="-11.43" drill="0.8"/>
-<pad name="P$16" x="-11.43" y="-13.97" drill="0.8"/>
-<pad name="P$17" x="-11.43" y="-16.51" drill="0.8"/>
-<pad name="P$18" x="-11.43" y="-19.05" drill="0.8"/>
-<pad name="P$19" x="-11.43" y="-21.59" drill="0.8"/>
-<pad name="P$20" x="-11.43" y="-24.13" drill="0.8"/>
-<pad name="P$21" x="11.43" y="-24.13" drill="0.8"/>
-<pad name="P$22" x="11.43" y="-21.59" drill="0.8"/>
-<pad name="P$23" x="11.43" y="-19.05" drill="0.8"/>
-<pad name="P$24" x="11.43" y="-16.51" drill="0.8"/>
-<pad name="P$25" x="11.43" y="-13.97" drill="0.8"/>
-<pad name="P$26" x="11.43" y="-11.43" drill="0.8"/>
-<pad name="P$27" x="11.43" y="-8.89" drill="0.8"/>
-<pad name="P$28" x="11.43" y="-6.35" drill="0.8"/>
-<pad name="P$29" x="11.43" y="-3.81" drill="0.8"/>
-<pad name="P$30" x="11.43" y="-1.27" drill="0.8"/>
-<pad name="P$31" x="11.43" y="1.27" drill="0.8"/>
-<pad name="P$32" x="11.43" y="3.81" drill="0.8"/>
-<pad name="P$33" x="11.43" y="6.35" drill="0.8"/>
-<pad name="P$34" x="11.43" y="8.89" drill="0.8"/>
-<pad name="P$35" x="11.43" y="11.43" drill="0.8"/>
-<pad name="P$36" x="11.43" y="13.97" drill="0.8"/>
-<pad name="P$37" x="11.43" y="16.51" drill="0.8"/>
-<pad name="P$38" x="11.43" y="19.05" drill="0.8"/>
-<pad name="P$39" x="11.43" y="21.59" drill="0.8"/>
-<pad name="P$40" x="11.43" y="24.13" drill="0.8"/>
+<pad name="P01" x="-11.43" y="24.13" drill="0.8"/>
+<pad name="P02" x="-11.43" y="21.59" drill="0.8"/>
+<pad name="P03" x="-11.43" y="19.05" drill="0.8"/>
+<pad name="P04" x="-11.43" y="16.51" drill="0.8"/>
+<pad name="P05" x="-11.43" y="13.97" drill="0.8"/>
+<pad name="P06" x="-11.43" y="11.43" drill="0.8"/>
+<pad name="P07" x="-11.43" y="8.89" drill="0.8"/>
+<pad name="P08" x="-11.43" y="6.35" drill="0.8"/>
+<pad name="P09" x="-11.43" y="3.81" drill="0.8"/>
+<pad name="P10" x="-11.43" y="1.27" drill="0.8"/>
+<pad name="P11" x="-11.43" y="-1.27" drill="0.8"/>
+<pad name="P12" x="-11.43" y="-3.81" drill="0.8"/>
+<pad name="P13" x="-11.43" y="-6.35" drill="0.8"/>
+<pad name="P14" x="-11.43" y="-8.89" drill="0.8"/>
+<pad name="P15" x="-11.43" y="-11.43" drill="0.8"/>
+<pad name="P16" x="-11.43" y="-13.97" drill="0.8"/>
+<pad name="P17" x="-11.43" y="-16.51" drill="0.8"/>
+<pad name="P18" x="-11.43" y="-19.05" drill="0.8"/>
+<pad name="P19" x="-11.43" y="-21.59" drill="0.8"/>
+<pad name="P20" x="-11.43" y="-24.13" drill="0.8"/>
+<pad name="P21" x="11.43" y="-24.13" drill="0.8"/>
+<pad name="P22" x="11.43" y="-21.59" drill="0.8"/>
+<pad name="P23" x="11.43" y="-19.05" drill="0.8"/>
+<pad name="P24" x="11.43" y="-16.51" drill="0.8"/>
+<pad name="P25" x="11.43" y="-13.97" drill="0.8"/>
+<pad name="P26" x="11.43" y="-11.43" drill="0.8"/>
+<pad name="P27" x="11.43" y="-8.89" drill="0.8"/>
+<pad name="P28" x="11.43" y="-6.35" drill="0.8"/>
+<pad name="P29" x="11.43" y="-3.81" drill="0.8"/>
+<pad name="P30" x="11.43" y="-1.27" drill="0.8"/>
+<pad name="P31" x="11.43" y="1.27" drill="0.8"/>
+<pad name="P32" x="11.43" y="3.81" drill="0.8"/>
+<pad name="P33" x="11.43" y="6.35" drill="0.8"/>
+<pad name="P34" x="11.43" y="8.89" drill="0.8"/>
+<pad name="P35" x="11.43" y="11.43" drill="0.8"/>
+<pad name="P36" x="11.43" y="13.97" drill="0.8"/>
+<pad name="P37" x="11.43" y="16.51" drill="0.8"/>
+<pad name="P38" x="11.43" y="19.05" drill="0.8"/>
+<pad name="P39" x="11.43" y="21.59" drill="0.8"/>
+<pad name="P40" x="11.43" y="24.13" drill="0.8"/>
 <wire x1="-12.7" y1="25.4" x2="-12.7" y2="-25.4" width="0.127" layer="20"/>
 <wire x1="-12.7" y1="-25.4" x2="12.7" y2="-25.4" width="0.127" layer="20"/>
 <wire x1="12.7" y1="-25.4" x2="12.7" y2="25.4" width="0.127" layer="20"/>
@@ -168,8 +168,8 @@
 <pin name="P0.06/AIN7/AREF1" x="-30.48" y="-10.16" length="middle" direction="in"/>
 <pin name="P0.07" x="-30.48" y="-12.7" length="middle" direction="in"/>
 <pin name="P0.05/AIN6" x="-30.48" y="-15.24" length="middle" direction="in"/>
-<pin name="GND" x="-10.16" y="-30.48" length="middle" direction="in" rot="R90"/>
-<pin name="VDD" x="-7.62" y="-30.48" length="middle" direction="in" rot="R90"/>
+<pin name="GND" x="-10.16" y="-30.48" length="middle" direction="pwr" rot="R90"/>
+<pin name="VDD" x="-7.62" y="-30.48" length="middle" direction="pwr" rot="R90"/>
 <pin name="P0.03/AIN4" x="-5.08" y="-30.48" length="middle" direction="in" rot="R90"/>
 <pin name="P0.08" x="-2.54" y="-30.48" length="middle" direction="in" rot="R90"/>
 <pin name="P0.09" x="0" y="-30.48" length="middle" direction="in" rot="R90"/>
@@ -180,7 +180,7 @@
 <pin name="P0.14" x="30.48" y="-15.24" length="middle" direction="in" rot="R180"/>
 <pin name="P0.15" x="30.48" y="-12.7" length="middle" direction="in" rot="R180"/>
 <pin name="P0.16" x="30.48" y="-10.16" length="middle" direction="in" rot="R180"/>
-<pin name="SWCLK" x="30.48" y="-7.62" length="middle" direction="in" rot="R180"/>
+<pin name="SWDCLK" x="30.48" y="-7.62" length="middle" rot="R180"/>
 <pin name="SWDIO/NRESET" x="30.48" y="-5.08" length="middle" direction="in" rot="R180"/>
 <pin name="P0.17" x="30.48" y="-2.54" length="middle" direction="in" rot="R180"/>
 <pin name="P0.18" x="30.48" y="0" length="middle" direction="in" rot="R180"/>
@@ -190,15 +190,15 @@
 <pin name="P0.22" x="30.48" y="10.16" length="middle" direction="in" rot="R180"/>
 <pin name="P0.21" x="30.48" y="12.7" length="middle" direction="in" rot="R180"/>
 <pin name="P0.23" x="30.48" y="15.24" length="middle" direction="in" rot="R180"/>
-<pin name="GND0" x="10.16" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND1" x="7.62" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND2" x="5.08" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND3" x="2.54" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND4" x="0" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND5" x="-2.54" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND6" x="-5.08" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND7" x="-7.62" y="30.48" length="middle" direction="in" rot="R270"/>
-<pin name="GND8" x="-10.16" y="30.48" length="middle" direction="in" rot="R270"/>
+<pin name="GND0" x="10.16" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND1" x="7.62" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND2" x="5.08" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND3" x="2.54" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND4" x="0" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND5" x="-2.54" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND6" x="-5.08" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND7" x="-7.62" y="30.48" length="middle" direction="pwr" rot="R270"/>
+<pin name="GND8" x="-10.16" y="30.48" length="middle" direction="pwr" rot="R270"/>
 <wire x1="-25.4" y1="25.4" x2="-25.4" y2="-25.4" width="0.254" layer="94"/>
 <wire x1="-25.4" y1="-25.4" x2="25.4" y2="-25.4" width="0.254" layer="94"/>
 <wire x1="25.4" y1="-25.4" x2="25.4" y2="25.4" width="0.254" layer="94"/>
@@ -259,50 +259,50 @@
 <devices>
 <device name="" package="HRM1017">
 <connects>
-<connect gate="G$1" pin="GND" pad="P$14"/>
-<connect gate="G$1" pin="GND0" pad="P$36"/>
-<connect gate="G$1" pin="GND1" pad="P$37"/>
-<connect gate="G$1" pin="GND2" pad="P$38"/>
-<connect gate="G$1" pin="GND3" pad="P$39"/>
-<connect gate="G$1" pin="GND4" pad="P$40"/>
-<connect gate="G$1" pin="GND5" pad="P$41"/>
-<connect gate="G$1" pin="GND6" pad="P$42"/>
-<connect gate="G$1" pin="GND7" pad="P$43"/>
-<connect gate="G$1" pin="GND8" pad="P$44"/>
-<connect gate="G$1" pin="P0.00/AREF0" pad="P$7"/>
-<connect gate="G$1" pin="P0.01/AIN2" pad="P$8"/>
-<connect gate="G$1" pin="P0.02/AIN3" pad="P$9"/>
-<connect gate="G$1" pin="P0.03/AIN4" pad="P$16"/>
-<connect gate="G$1" pin="P0.04/AIN5" pad="P$10"/>
-<connect gate="G$1" pin="P0.05/AIN6" pad="P$13"/>
-<connect gate="G$1" pin="P0.06/AIN7/AREF1" pad="P$11"/>
-<connect gate="G$1" pin="P0.07" pad="P$12"/>
-<connect gate="G$1" pin="P0.08" pad="P$17"/>
-<connect gate="G$1" pin="P0.09" pad="P$18"/>
-<connect gate="G$1" pin="P0.10" pad="P$19"/>
-<connect gate="G$1" pin="P0.11" pad="P$20"/>
-<connect gate="G$1" pin="P0.12" pad="P$21"/>
-<connect gate="G$1" pin="P0.13" pad="P$22"/>
-<connect gate="G$1" pin="P0.14" pad="P$23"/>
-<connect gate="G$1" pin="P0.15" pad="P$24"/>
-<connect gate="G$1" pin="P0.16" pad="P$25"/>
-<connect gate="G$1" pin="P0.17" pad="P$28"/>
-<connect gate="G$1" pin="P0.18" pad="P$29"/>
-<connect gate="G$1" pin="P0.19" pad="P$30"/>
-<connect gate="G$1" pin="P0.20" pad="P$31"/>
-<connect gate="G$1" pin="P0.21" pad="P$34"/>
-<connect gate="G$1" pin="P0.22" pad="P$33"/>
-<connect gate="G$1" pin="P0.23" pad="P$35"/>
-<connect gate="G$1" pin="P0.24" pad="P$32"/>
-<connect gate="G$1" pin="P0.25" pad="P$1"/>
-<connect gate="G$1" pin="P0.26" pad="P$2"/>
-<connect gate="G$1" pin="P0.27" pad="P$3"/>
-<connect gate="G$1" pin="P0.28" pad="P$4"/>
-<connect gate="G$1" pin="P0.29" pad="P$5"/>
-<connect gate="G$1" pin="P0.30" pad="P$6"/>
-<connect gate="G$1" pin="SWCLK" pad="P$26"/>
-<connect gate="G$1" pin="SWDIO/NRESET" pad="P$27"/>
-<connect gate="G$1" pin="VDD" pad="P$15"/>
+<connect gate="G$1" pin="GND" pad="P14"/>
+<connect gate="G$1" pin="GND0" pad="P36"/>
+<connect gate="G$1" pin="GND1" pad="P37"/>
+<connect gate="G$1" pin="GND2" pad="P38"/>
+<connect gate="G$1" pin="GND3" pad="P39"/>
+<connect gate="G$1" pin="GND4" pad="P40"/>
+<connect gate="G$1" pin="GND5" pad="P41"/>
+<connect gate="G$1" pin="GND6" pad="P42"/>
+<connect gate="G$1" pin="GND7" pad="P43"/>
+<connect gate="G$1" pin="GND8" pad="P44"/>
+<connect gate="G$1" pin="P0.00/AREF0" pad="P07"/>
+<connect gate="G$1" pin="P0.01/AIN2" pad="P08"/>
+<connect gate="G$1" pin="P0.02/AIN3" pad="P09"/>
+<connect gate="G$1" pin="P0.03/AIN4" pad="P16"/>
+<connect gate="G$1" pin="P0.04/AIN5" pad="P10"/>
+<connect gate="G$1" pin="P0.05/AIN6" pad="P13"/>
+<connect gate="G$1" pin="P0.06/AIN7/AREF1" pad="P11"/>
+<connect gate="G$1" pin="P0.07" pad="P12"/>
+<connect gate="G$1" pin="P0.08" pad="P17"/>
+<connect gate="G$1" pin="P0.09" pad="P18"/>
+<connect gate="G$1" pin="P0.10" pad="P19"/>
+<connect gate="G$1" pin="P0.11" pad="P20"/>
+<connect gate="G$1" pin="P0.12" pad="P21"/>
+<connect gate="G$1" pin="P0.13" pad="P22"/>
+<connect gate="G$1" pin="P0.14" pad="P23"/>
+<connect gate="G$1" pin="P0.15" pad="P24"/>
+<connect gate="G$1" pin="P0.16" pad="P25"/>
+<connect gate="G$1" pin="P0.17" pad="P28"/>
+<connect gate="G$1" pin="P0.18" pad="P29"/>
+<connect gate="G$1" pin="P0.19" pad="P30"/>
+<connect gate="G$1" pin="P0.20" pad="P31"/>
+<connect gate="G$1" pin="P0.21" pad="P34"/>
+<connect gate="G$1" pin="P0.22" pad="P33"/>
+<connect gate="G$1" pin="P0.23" pad="P35"/>
+<connect gate="G$1" pin="P0.24" pad="P32"/>
+<connect gate="G$1" pin="P0.25" pad="P01"/>
+<connect gate="G$1" pin="P0.26" pad="P02"/>
+<connect gate="G$1" pin="P0.27" pad="P03"/>
+<connect gate="G$1" pin="P0.28" pad="P04"/>
+<connect gate="G$1" pin="P0.29" pad="P05"/>
+<connect gate="G$1" pin="P0.30" pad="P06"/>
+<connect gate="G$1" pin="SWDCLK" pad="P26"/>
+<connect gate="G$1" pin="SWDIO/NRESET" pad="P27"/>
+<connect gate="G$1" pin="VDD" pad="P15"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -317,46 +317,46 @@
 <devices>
 <device name="" package="NORDIC-BREAKOUT">
 <connects>
-<connect gate="G$1" pin="GND0" pad="P$1"/>
-<connect gate="G$1" pin="GND1" pad="P$20"/>
-<connect gate="G$1" pin="GND2" pad="P$21"/>
-<connect gate="G$1" pin="GND3" pad="P$40"/>
-<connect gate="G$1" pin="NC" pad="P$2"/>
-<connect gate="G$1" pin="P0.00" pad="P$3"/>
-<connect gate="G$1" pin="P0.01" pad="P$4"/>
-<connect gate="G$1" pin="P0.02" pad="P$5"/>
-<connect gate="G$1" pin="P0.03" pad="P$6"/>
-<connect gate="G$1" pin="P0.04" pad="P$7"/>
-<connect gate="G$1" pin="P0.05" pad="P$8"/>
-<connect gate="G$1" pin="P0.06" pad="P$9"/>
-<connect gate="G$1" pin="P0.07" pad="P$10"/>
-<connect gate="G$1" pin="P0.08" pad="P$11"/>
-<connect gate="G$1" pin="P0.09" pad="P$12"/>
-<connect gate="G$1" pin="P0.10" pad="P$13"/>
-<connect gate="G$1" pin="P0.11" pad="P$14"/>
-<connect gate="G$1" pin="P0.12" pad="P$15"/>
-<connect gate="G$1" pin="P0.13" pad="P$16"/>
-<connect gate="G$1" pin="P0.14" pad="P$17"/>
-<connect gate="G$1" pin="P0.15" pad="P$18"/>
-<connect gate="G$1" pin="P0.16" pad="P$24"/>
-<connect gate="G$1" pin="P0.17" pad="P$25"/>
-<connect gate="G$1" pin="P0.18" pad="P$26"/>
-<connect gate="G$1" pin="P0.19" pad="P$27"/>
-<connect gate="G$1" pin="P0.20" pad="P$28"/>
-<connect gate="G$1" pin="P0.21" pad="P$29"/>
-<connect gate="G$1" pin="P0.22" pad="P$30"/>
-<connect gate="G$1" pin="P0.23" pad="P$31"/>
-<connect gate="G$1" pin="P0.24" pad="P$32"/>
-<connect gate="G$1" pin="P0.25" pad="P$33"/>
-<connect gate="G$1" pin="P0.26" pad="P$34"/>
-<connect gate="G$1" pin="P0.27" pad="P$35"/>
-<connect gate="G$1" pin="P0.28" pad="P$36"/>
-<connect gate="G$1" pin="P0.29" pad="P$37"/>
-<connect gate="G$1" pin="P0.30" pad="P$38"/>
-<connect gate="G$1" pin="SWDCLK" pad="P$23"/>
-<connect gate="G$1" pin="SWDIO/NRESET" pad="P$22"/>
-<connect gate="G$1" pin="VCC0" pad="P$19"/>
-<connect gate="G$1" pin="VCC1" pad="P$39"/>
+<connect gate="G$1" pin="GND0" pad="P01"/>
+<connect gate="G$1" pin="GND1" pad="P20"/>
+<connect gate="G$1" pin="GND2" pad="P21"/>
+<connect gate="G$1" pin="GND3" pad="P40"/>
+<connect gate="G$1" pin="NC" pad="P02"/>
+<connect gate="G$1" pin="P0.00" pad="P03"/>
+<connect gate="G$1" pin="P0.01" pad="P04"/>
+<connect gate="G$1" pin="P0.02" pad="P05"/>
+<connect gate="G$1" pin="P0.03" pad="P06"/>
+<connect gate="G$1" pin="P0.04" pad="P07"/>
+<connect gate="G$1" pin="P0.05" pad="P08"/>
+<connect gate="G$1" pin="P0.06" pad="P09"/>
+<connect gate="G$1" pin="P0.07" pad="P10"/>
+<connect gate="G$1" pin="P0.08" pad="P11"/>
+<connect gate="G$1" pin="P0.09" pad="P12"/>
+<connect gate="G$1" pin="P0.10" pad="P13"/>
+<connect gate="G$1" pin="P0.11" pad="P14"/>
+<connect gate="G$1" pin="P0.12" pad="P15"/>
+<connect gate="G$1" pin="P0.13" pad="P16"/>
+<connect gate="G$1" pin="P0.14" pad="P17"/>
+<connect gate="G$1" pin="P0.15" pad="P18"/>
+<connect gate="G$1" pin="P0.16" pad="P24"/>
+<connect gate="G$1" pin="P0.17" pad="P25"/>
+<connect gate="G$1" pin="P0.18" pad="P26"/>
+<connect gate="G$1" pin="P0.19" pad="P27"/>
+<connect gate="G$1" pin="P0.20" pad="P28"/>
+<connect gate="G$1" pin="P0.21" pad="P29"/>
+<connect gate="G$1" pin="P0.22" pad="P30"/>
+<connect gate="G$1" pin="P0.23" pad="P31"/>
+<connect gate="G$1" pin="P0.24" pad="P32"/>
+<connect gate="G$1" pin="P0.25" pad="P33"/>
+<connect gate="G$1" pin="P0.26" pad="P34"/>
+<connect gate="G$1" pin="P0.27" pad="P35"/>
+<connect gate="G$1" pin="P0.28" pad="P36"/>
+<connect gate="G$1" pin="P0.29" pad="P37"/>
+<connect gate="G$1" pin="P0.30" pad="P38"/>
+<connect gate="G$1" pin="SWDCLK" pad="P23"/>
+<connect gate="G$1" pin="SWDIO/NRESET" pad="P22"/>
+<connect gate="G$1" pin="VCC0" pad="P19"/>
+<connect gate="G$1" pin="VCC1" pad="P39"/>
 </connects>
 <technologies>
 <technology name=""/>
