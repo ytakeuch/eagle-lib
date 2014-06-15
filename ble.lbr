@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.05" unitdist="inch" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -107,50 +107,96 @@
 <smd name="P44" x="2.15" y="16.5" dx="0.8" dy="0.8" layer="1" roundness="100"/>
 </package>
 <package name="NORDIC-BREAKOUT">
-<pad name="P01" x="-11.43" y="24.13" drill="0.8"/>
-<pad name="P02" x="-11.43" y="21.59" drill="0.8"/>
-<pad name="P03" x="-11.43" y="19.05" drill="0.8"/>
-<pad name="P04" x="-11.43" y="16.51" drill="0.8"/>
-<pad name="P05" x="-11.43" y="13.97" drill="0.8"/>
-<pad name="P06" x="-11.43" y="11.43" drill="0.8"/>
-<pad name="P07" x="-11.43" y="8.89" drill="0.8"/>
-<pad name="P08" x="-11.43" y="6.35" drill="0.8"/>
-<pad name="P09" x="-11.43" y="3.81" drill="0.8"/>
-<pad name="P10" x="-11.43" y="1.27" drill="0.8"/>
-<pad name="P11" x="-11.43" y="-1.27" drill="0.8"/>
-<pad name="P12" x="-11.43" y="-3.81" drill="0.8"/>
-<pad name="P13" x="-11.43" y="-6.35" drill="0.8"/>
-<pad name="P14" x="-11.43" y="-8.89" drill="0.8"/>
-<pad name="P15" x="-11.43" y="-11.43" drill="0.8"/>
-<pad name="P16" x="-11.43" y="-13.97" drill="0.8"/>
-<pad name="P17" x="-11.43" y="-16.51" drill="0.8"/>
-<pad name="P18" x="-11.43" y="-19.05" drill="0.8"/>
-<pad name="P19" x="-11.43" y="-21.59" drill="0.8"/>
-<pad name="P20" x="-11.43" y="-24.13" drill="0.8"/>
-<pad name="P21" x="11.43" y="-24.13" drill="0.8"/>
-<pad name="P22" x="11.43" y="-21.59" drill="0.8"/>
-<pad name="P23" x="11.43" y="-19.05" drill="0.8"/>
-<pad name="P24" x="11.43" y="-16.51" drill="0.8"/>
-<pad name="P25" x="11.43" y="-13.97" drill="0.8"/>
-<pad name="P26" x="11.43" y="-11.43" drill="0.8"/>
-<pad name="P27" x="11.43" y="-8.89" drill="0.8"/>
-<pad name="P28" x="11.43" y="-6.35" drill="0.8"/>
-<pad name="P29" x="11.43" y="-3.81" drill="0.8"/>
-<pad name="P30" x="11.43" y="-1.27" drill="0.8"/>
-<pad name="P31" x="11.43" y="1.27" drill="0.8"/>
-<pad name="P32" x="11.43" y="3.81" drill="0.8"/>
-<pad name="P33" x="11.43" y="6.35" drill="0.8"/>
-<pad name="P34" x="11.43" y="8.89" drill="0.8"/>
-<pad name="P35" x="11.43" y="11.43" drill="0.8"/>
-<pad name="P36" x="11.43" y="13.97" drill="0.8"/>
-<pad name="P37" x="11.43" y="16.51" drill="0.8"/>
-<pad name="P38" x="11.43" y="19.05" drill="0.8"/>
-<pad name="P39" x="11.43" y="21.59" drill="0.8"/>
-<pad name="P40" x="11.43" y="24.13" drill="0.8"/>
-<wire x1="-12.7" y1="25.4" x2="-12.7" y2="-25.4" width="0.127" layer="20"/>
-<wire x1="-12.7" y1="-25.4" x2="12.7" y2="-25.4" width="0.127" layer="20"/>
-<wire x1="12.7" y1="-25.4" x2="12.7" y2="25.4" width="0.127" layer="20"/>
-<wire x1="12.7" y1="25.4" x2="-12.7" y2="25.4" width="0.127" layer="20"/>
+<pad name="P01" x="-11.43" y="24.13" drill="1.1"/>
+<pad name="P02" x="-11.43" y="21.59" drill="1.1"/>
+<pad name="P03" x="-11.43" y="19.05" drill="1.1"/>
+<pad name="P04" x="-11.43" y="16.51" drill="1.1"/>
+<pad name="P05" x="-11.43" y="13.97" drill="1.1"/>
+<pad name="P06" x="-11.43" y="11.43" drill="1.1"/>
+<pad name="P07" x="-11.43" y="8.89" drill="1.1"/>
+<pad name="P08" x="-11.43" y="6.35" drill="1.1"/>
+<pad name="P09" x="-11.43" y="3.81" drill="1.1"/>
+<pad name="P10" x="-11.43" y="1.27" drill="1.1"/>
+<pad name="P11" x="-11.43" y="-1.27" drill="1.1"/>
+<pad name="P12" x="-11.43" y="-3.81" drill="1.1"/>
+<pad name="P13" x="-11.43" y="-6.35" drill="1.1"/>
+<pad name="P14" x="-11.43" y="-8.89" drill="1.1"/>
+<pad name="P15" x="-11.43" y="-11.43" drill="1.1"/>
+<pad name="P16" x="-11.43" y="-13.97" drill="1.1"/>
+<pad name="P17" x="-11.43" y="-16.51" drill="1.1"/>
+<pad name="P18" x="-11.43" y="-19.05" drill="1.1"/>
+<pad name="P19" x="-11.43" y="-21.59" drill="1.1"/>
+<pad name="P20" x="-11.43" y="-24.13" drill="1.1"/>
+<pad name="P21" x="11.43" y="-24.13" drill="1.1"/>
+<pad name="P22" x="11.43" y="-21.59" drill="1.1"/>
+<pad name="P23" x="11.43" y="-19.05" drill="1.1"/>
+<pad name="P24" x="11.43" y="-16.51" drill="1.1"/>
+<pad name="P25" x="11.43" y="-13.97" drill="1.1"/>
+<pad name="P26" x="11.43" y="-11.43" drill="1.1"/>
+<pad name="P27" x="11.43" y="-8.89" drill="1.1"/>
+<pad name="P28" x="11.43" y="-6.35" drill="1.1"/>
+<pad name="P29" x="11.43" y="-3.81" drill="1.1"/>
+<pad name="P30" x="11.43" y="-1.27" drill="1.1"/>
+<pad name="P31" x="11.43" y="1.27" drill="1.1"/>
+<pad name="P32" x="11.43" y="3.81" drill="1.1"/>
+<pad name="P33" x="11.43" y="6.35" drill="1.1"/>
+<pad name="P34" x="11.43" y="8.89" drill="1.1"/>
+<pad name="P35" x="11.43" y="11.43" drill="1.1"/>
+<pad name="P36" x="11.43" y="13.97" drill="1.1"/>
+<pad name="P37" x="11.43" y="16.51" drill="1.1"/>
+<pad name="P38" x="11.43" y="19.05" drill="1.1"/>
+<pad name="P39" x="11.43" y="21.59" drill="1.1"/>
+<pad name="P40" x="11.43" y="24.13" drill="1.1"/>
+<wire x1="-12.7" y1="25.4" x2="-12.7" y2="-25.4" width="0.127" layer="51"/>
+<wire x1="-12.7" y1="-25.4" x2="12.7" y2="-25.4" width="0.127" layer="51"/>
+<wire x1="12.7" y1="-25.4" x2="12.7" y2="25.4" width="0.127" layer="51"/>
+<wire x1="12.7" y1="25.4" x2="-12.7" y2="25.4" width="0.127" layer="51"/>
+</package>
+<package name="NORDIC-BREAKOUT2">
+<pad name="P01" x="-10.16" y="24.13" drill="1.1"/>
+<pad name="P02" x="-10.16" y="21.59" drill="1.1"/>
+<pad name="P03" x="-10.16" y="19.05" drill="1.1"/>
+<pad name="P04" x="-10.16" y="16.51" drill="1.1"/>
+<pad name="P05" x="-10.16" y="13.97" drill="1.1"/>
+<pad name="P06" x="-10.16" y="11.43" drill="1.1"/>
+<pad name="P07" x="-10.16" y="8.89" drill="1.1"/>
+<pad name="P08" x="-10.16" y="6.35" drill="1.1"/>
+<pad name="P09" x="-10.16" y="3.81" drill="1.1"/>
+<pad name="P10" x="-10.16" y="1.27" drill="1.1"/>
+<pad name="P11" x="-10.16" y="-1.27" drill="1.1"/>
+<pad name="P12" x="-10.16" y="-3.81" drill="1.1"/>
+<pad name="P13" x="-10.16" y="-6.35" drill="1.1"/>
+<pad name="P14" x="-10.16" y="-8.89" drill="1.1"/>
+<pad name="P15" x="-10.16" y="-11.43" drill="1.1"/>
+<pad name="P16" x="-10.16" y="-13.97" drill="1.1"/>
+<pad name="P17" x="-10.16" y="-16.51" drill="1.1"/>
+<pad name="P18" x="-10.16" y="-19.05" drill="1.1"/>
+<pad name="P19" x="-10.16" y="-21.59" drill="1.1"/>
+<pad name="P20" x="-10.16" y="-24.13" drill="1.1"/>
+<pad name="P21" x="10.16" y="-24.13" drill="1.1"/>
+<pad name="P22" x="10.16" y="-21.59" drill="1.1"/>
+<pad name="P23" x="10.16" y="-19.05" drill="1.1"/>
+<pad name="P24" x="10.16" y="-16.51" drill="1.1"/>
+<pad name="P25" x="10.16" y="-13.97" drill="1.1"/>
+<pad name="P26" x="10.16" y="-11.43" drill="1.1"/>
+<pad name="P27" x="10.16" y="-8.89" drill="1.1"/>
+<pad name="P28" x="10.16" y="-6.35" drill="1.1"/>
+<pad name="P29" x="10.16" y="-3.81" drill="1.1"/>
+<pad name="P30" x="10.16" y="-1.27" drill="1.1"/>
+<pad name="P31" x="10.16" y="1.27" drill="1.1"/>
+<pad name="P32" x="10.16" y="3.81" drill="1.1"/>
+<pad name="P33" x="10.16" y="6.35" drill="1.1"/>
+<pad name="P34" x="10.16" y="8.89" drill="1.1"/>
+<pad name="P35" x="10.16" y="11.43" drill="1.1"/>
+<pad name="P36" x="10.16" y="13.97" drill="1.1"/>
+<pad name="P37" x="10.16" y="16.51" drill="1.1"/>
+<pad name="P38" x="10.16" y="19.05" drill="1.1"/>
+<pad name="P39" x="10.16" y="21.59" drill="1.1"/>
+<pad name="P40" x="10.16" y="24.13" drill="1.1"/>
+<wire x1="-11.43" y1="25.4" x2="-11.43" y2="-25.4" width="0.127" layer="51"/>
+<wire x1="-11.43" y1="-25.4" x2="11.43" y2="-25.4" width="0.127" layer="51"/>
+<wire x1="11.43" y1="-25.4" x2="11.43" y2="25.4" width="0.127" layer="51"/>
+<wire x1="11.43" y1="25.4" x2="-11.43" y2="25.4" width="0.127" layer="51"/>
 </package>
 </packages>
 <symbols>
@@ -315,7 +361,54 @@
 <gate name="G$1" symbol="NORDIC-BREAKOUT" x="0" y="0"/>
 </gates>
 <devices>
-<device name="" package="NORDIC-BREAKOUT">
+<device name="900MIL" package="NORDIC-BREAKOUT">
+<connects>
+<connect gate="G$1" pin="GND0" pad="P01"/>
+<connect gate="G$1" pin="GND1" pad="P20"/>
+<connect gate="G$1" pin="GND2" pad="P21"/>
+<connect gate="G$1" pin="GND3" pad="P40"/>
+<connect gate="G$1" pin="NC" pad="P02"/>
+<connect gate="G$1" pin="P0.00" pad="P03"/>
+<connect gate="G$1" pin="P0.01" pad="P04"/>
+<connect gate="G$1" pin="P0.02" pad="P05"/>
+<connect gate="G$1" pin="P0.03" pad="P06"/>
+<connect gate="G$1" pin="P0.04" pad="P07"/>
+<connect gate="G$1" pin="P0.05" pad="P08"/>
+<connect gate="G$1" pin="P0.06" pad="P09"/>
+<connect gate="G$1" pin="P0.07" pad="P10"/>
+<connect gate="G$1" pin="P0.08" pad="P11"/>
+<connect gate="G$1" pin="P0.09" pad="P12"/>
+<connect gate="G$1" pin="P0.10" pad="P13"/>
+<connect gate="G$1" pin="P0.11" pad="P14"/>
+<connect gate="G$1" pin="P0.12" pad="P15"/>
+<connect gate="G$1" pin="P0.13" pad="P16"/>
+<connect gate="G$1" pin="P0.14" pad="P17"/>
+<connect gate="G$1" pin="P0.15" pad="P18"/>
+<connect gate="G$1" pin="P0.16" pad="P24"/>
+<connect gate="G$1" pin="P0.17" pad="P25"/>
+<connect gate="G$1" pin="P0.18" pad="P26"/>
+<connect gate="G$1" pin="P0.19" pad="P27"/>
+<connect gate="G$1" pin="P0.20" pad="P28"/>
+<connect gate="G$1" pin="P0.21" pad="P29"/>
+<connect gate="G$1" pin="P0.22" pad="P30"/>
+<connect gate="G$1" pin="P0.23" pad="P31"/>
+<connect gate="G$1" pin="P0.24" pad="P32"/>
+<connect gate="G$1" pin="P0.25" pad="P33"/>
+<connect gate="G$1" pin="P0.26" pad="P34"/>
+<connect gate="G$1" pin="P0.27" pad="P35"/>
+<connect gate="G$1" pin="P0.28" pad="P36"/>
+<connect gate="G$1" pin="P0.29" pad="P37"/>
+<connect gate="G$1" pin="P0.30" pad="P38"/>
+<connect gate="G$1" pin="SWDCLK" pad="P23"/>
+<connect gate="G$1" pin="SWDIO/NRESET" pad="P22"/>
+<connect gate="G$1" pin="VCC0" pad="P19"/>
+<connect gate="G$1" pin="VCC1" pad="P39"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="800MIL" package="NORDIC-BREAKOUT2">
 <connects>
 <connect gate="G$1" pin="GND0" pad="P01"/>
 <connect gate="G$1" pin="GND1" pad="P20"/>
